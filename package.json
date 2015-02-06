@@ -1,0 +1,19 @@
+{
+  "name": "ssb-manifest",
+  "version": "1.0.0",
+  "description": "rpc manifest for ssb nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ssbc/ssb-manifest.git"
+  },
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssbc/ssb-manifest/issues"
+  },
+  "homepage": "https://github.com/ssbc/ssb-manifest"
+}
