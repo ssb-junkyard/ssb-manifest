@@ -1,6 +1,6 @@
 {
   "name": "ssb-manifest",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "rpc manifest for ssb nodes",
   "main": "index.js",
   "scripts": {
