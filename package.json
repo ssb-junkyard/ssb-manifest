@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ssbc/ssb-manifest/issues"
   },
-  "homepage": "https://github.com/ssbc/ssb-manifest"
+  "homepage": "https://github.com/ssbc/ssb-manifest",
+  "dependencies": {
+    "ssb-config": "~1.0.0"
+  }
 }
